@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "vanity_create:item/shadow_steel_design"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"schemaVersion": 1,
+	"id": "vanity_create",
+	"version": "1.0.0",
+	"environment": "*",
+	"name": "Vanity: Create",
+	"description": "Adds the removed blazing, gilded quartz, and shadow steel tools from Create",
+	"authors": [
+		"Chai"
+	],
+	"license": "MIT",
+	"icon": "pack.png"
+}

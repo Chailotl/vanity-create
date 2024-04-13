@@ -1,0 +1,110 @@
+{
+	"model": "vanity_create:blazing_design",
+	"type": "sellable",
+	"styles": {
+		"sword": [
+			{
+				"item": "minecraft:iron_sword",
+				"assets": {
+					"default": "vanity_create:blazing_sword"
+				}
+			},
+			{
+				"item": "minecraft:golden_sword",
+				"assets": {
+					"default": "vanity_create:blazing_sword"
+				}
+			},
+			{
+				"item": "minecraft:diamond_sword",
+				"assets": {
+					"default": "vanity_create:blazing_sword"
+				}
+			},
+			{
+				"item": "minecraft:netherite_sword",
+				"assets": {
+					"default": "vanity_create:blazing_sword"
+				}
+			}
+		],
+		"pickaxe": [
+			{
+				"item": "minecraft:iron_pickaxe",
+				"assets": {
+					"default": "vanity_create:blazing_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:golden_pickaxe",
+				"assets": {
+					"default": "vanity_create:blazing_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:diamond_pickaxe",
+				"assets": {
+					"default": "vanity_create:blazing_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:netherite_pickaxe",
+				"assets": {
+					"default": "vanity_create:blazing_pickaxe"
+				}
+			}
+		],
+		"axe": [
+			{
+				"item": "minecraft:iron_axe",
+				"assets": {
+					"default": "vanity_create:blazing_axe"
+				}
+			},
+			{
+				"item": "minecraft:golden_axe",
+				"assets": {
+					"default": "vanity_create:blazing_axe"
+				}
+			},
+			{
+				"item": "minecraft:diamond_axe",
+				"assets": {
+					"default": "vanity_create:blazing_axe"
+				}
+			},
+			{
+				"item": "minecraft:netherite_axe",
+				"assets": {
+					"default": "vanity_create:blazing_axe"
+				}
+			}
+		],
+		"shovel": [
+			{
+				"item": "minecraft:iron_shovel",
+				"assets": {
+					"default": "vanity_create:blazing_shovel"
+				}
+			},
+			{
+				"item": "minecraft:golden_shovel",
+				"assets": {
+					"default": "vanity_create:blazing_shovel"
+				}
+			},
+			{
+				"item": "minecraft:diamond_shovel",
+				"assets": {
+					"default": "vanity_create:blazing_shovel"
+				}
+			},
+			{
+				"item": "minecraft:netherite_shovel",
+				"assets": {
+					"default": "vanity_create:blazing_shovel"
+				}
+			}
+		]
+	}
+}

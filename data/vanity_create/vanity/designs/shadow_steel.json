@@ -1,0 +1,84 @@
+{
+	"model": "vanity_create:shadow_steel_design",
+	"type": "sellable",
+	"styles": {
+		"sword": [
+			{
+				"item": "minecraft:iron_sword",
+				"assets": {
+					"default": "vanity_create:shadow_steel_sword"
+				}
+			},
+			{
+				"item": "minecraft:golden_sword",
+				"assets": {
+					"default": "vanity_create:shadow_steel_sword"
+				}
+			},
+			{
+				"item": "minecraft:diamond_sword",
+				"assets": {
+					"default": "vanity_create:shadow_steel_sword"
+				}
+			},
+			{
+				"item": "minecraft:netherite_sword",
+				"assets": {
+					"default": "vanity_create:shadow_steel_sword"
+				}
+			}
+		],
+		"pickaxe": [
+			{
+				"item": "minecraft:iron_pickaxe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:golden_pickaxe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:diamond_pickaxe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_pickaxe"
+				}
+			},
+			{
+				"item": "minecraft:netherite_pickaxe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_pickaxe"
+				}
+			}
+		],
+		"axe": [
+			{
+				"item": "minecraft:iron_axe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_axe"
+				}
+			},
+			{
+				"item": "minecraft:golden_axe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_axe"
+				}
+			},
+			{
+				"item": "minecraft:diamond_axe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_axe"
+				}
+			},
+			{
+				"item": "minecraft:netherite_axe",
+				"assets": {
+					"default": "vanity_create:shadow_steel_axe"
+				}
+			}
+		]
+	}
+}
